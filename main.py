@@ -1,7 +1,7 @@
 import os
 os.system("title 电脑锁定器")
 print("电脑锁定器（by 一只野生的win31 bilibili）")
-print("开源地址：https://gitee.com/win31/computer-lock")
+print("开源地址：https://github.com/cwin31/computer-lock")
 print('请选择要执行的操作：' )
 print("锁定电脑（1）    更改密码（2）")
 print("请在输入后按回车继续，请勿输入其他非数字内容！（无需输入括号）")
@@ -34,5 +34,6 @@ elif do == 2:
             input("按回车退出")
         else:
             print("密码错误！")
+
 
 
